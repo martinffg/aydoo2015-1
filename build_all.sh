@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 set -e
-cd ejerciciotemplate
+cd ejercicio1
 ant
